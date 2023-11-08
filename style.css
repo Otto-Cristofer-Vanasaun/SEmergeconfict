@@ -1,21 +1,26 @@
 .pealkiri {
     color:black;
-    font-family:cursive;
-    font-size: 40px;
+    font-family:'Brush Script MT', 'Brush Script Std', cursive;
+    font-size: 80px;
 }
 
 .alapealkiri {
     font-family: 'Trebuchet MS';
     color: rgb(10, 10, 10);
-    font-size: 30px;
+    font-size: 40px;
 }
 
 .tekst {
-    font-family: cursive;
+    font-family:'Brush Script MT', 'Brush Script Std', cursive;
     font-size: 20px;
     color: rgb(25, 25, 25);
 }
 
-.taust {
-    background-image: https://i.pinimg.com/564x/1f/c6/62/1fc66290db1af5844913abc2aec7a919.jpg;
+img {
+    width: 500px;
+    height: 800px;
+    }
+
+body {
+    background-image: "https://i.pinimg.com/564x/1f/c6/62/1fc66290db1af5844913abc2aec7a919.jpg"
 }
