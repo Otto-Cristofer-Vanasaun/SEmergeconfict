@@ -1,0 +1,21 @@
+.pealkiri {
+    color:black;
+    font-family:cursive;
+    font-size: 40px;
+}
+
+.alapealkiri {
+    font-family: 'Trebuchet MS';
+    color: rgb(10, 10, 10);
+    font-size: 30px;
+}
+
+.tekst {
+    font-family: cursive;
+    font-size: 20px;
+    color: rgb(25, 25, 25);
+}
+
+.taust {
+    background-image: https://i.pinimg.com/564x/1f/c6/62/1fc66290db1af5844913abc2aec7a919.jpg;
+}
